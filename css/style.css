@@ -1,0 +1,63 @@
+*  {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(230, 223, 223);
+    margin: 0;
+    padding: 0 20px;
+   
+}
+.container {
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+
+.head {
+    text-align: center;
+    
+}
+h1 {
+    font-size: 57px;
+}
+.billion_livesl{
+    font-size: 25px;
+    text-align: center;
+    line-height: 1.4;
+}
+
+.foto {
+    background-color: white;
+    padding: 0 10px 1px;
+}
+.foto img {
+    width: 100%;
+}
+
+.name_of_artilke {
+    text-align: center;
+    font-size: 30px;
+}
+.article {
+    max-width: 800px;
+    line-height: 36px;
+    font-size: 20px;
+    margin: 0 auto;
+   
+}
+.li_in_article {
+   margin-bottom: 22px;
+}
+
+.article_with_years{
+    padding-left: 45px;
+}
+
+li {
+    
+}
+.link_wikipedia {
+    text-align: center;
+    font-size: 30px;
+    font:bold;
+}
